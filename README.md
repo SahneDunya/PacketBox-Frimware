@@ -1,1 +1,2 @@
-# PacketBox-Frimware
+# PacketBox Frimware
+PacketBox, the first operating system to use the Sahne Karnal architecture, does not use the BIOS and UEFI we all know. Instead, it uses its own firmware called PacketBox. Here you are in a project belonging to this firmware. You can understand which hardware this firmware is compatible with from the Target Electronics device.png file. Also, this firmware is CLI-based. While the highest limit with eMMC 1.0 is 25 MB, this limit can support 2.2 TB of storage space with SD cards, just like in BIOS. It is specially designed for the SahneBox operating system and the electronic device called PacketBox.
